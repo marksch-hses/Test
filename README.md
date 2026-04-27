@@ -1,5 +1,5 @@
-# Teaching Git
+# Teaching Git for Newcomers
 
-## Firtst Steps
+## Firtst Steps for me
 
-Das ist eine Anleitung
+Das ist eine Anleitung!!!
