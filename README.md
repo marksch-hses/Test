@@ -29,4 +29,4 @@ Jetzt von GITHUB nach lokal in einem Branhc für merge command
 Das Main auch noch eine änderung hat
 
 
-Änderung für merge lokal
+Änderung für merge lokal neuer branch
