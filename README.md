@@ -24,6 +24,6 @@ Ich will lokal auch etwas ändern um zu testen
 
 Jetzt eine änderung lokal nach GITHUB
 
-Jetzt von GITHUB nach lokal
+Jetzt von GITHUB nach lokal in einem Branhc für merge command
 
 Das Main auch noch eine änderung hat
