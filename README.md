@@ -25,3 +25,5 @@ Ich will lokal auch etwas ändern um zu testen
 Jetzt eine änderung lokal nach GITHUB
 
 Jetzt von GITHUB nach lokal
+
+Das Main auch noch eine änderung hat
